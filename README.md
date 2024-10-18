@@ -8,7 +8,7 @@ I've always been intrested in development, and I started to spend more time in i
 
 * 🌍  I'm based in Hungary
 * ✉️  You can contact me at [support@fk-servers.com](mailto:support@fk-servers.com)
-* 🚀  I'm currently working on [FK-Servers](http://bolt.fk-servers.com)
+* 🚀  I'm currently working on [FK-Servers](http://ugyfelkapu.fk-servers.com)
 * 🧠  I'm learning Lua
 
 ### Skills

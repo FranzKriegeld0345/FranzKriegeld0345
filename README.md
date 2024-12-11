@@ -7,7 +7,7 @@ Student, developer
 I've always been intrested in development, and I started to spend more time in it.
 
 * 🌍  I'm based in Hungary
-* ✉️  You can contact me at [support@fk-servers.com](mailto:info@shadowhost.eu)
+* ✉️  You can contact me at [info@shadowhost.eu](mailto:info@shadowhost.eu)
 * 🚀  I'm currently working on [ShadowHost.eu](https://shadowhost.eu)
 * 🧠  I'm learning Lua
 

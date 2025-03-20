@@ -1,34 +1,80 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Franz Kriegeld
-======================================================================================================================================
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Üdvözöllek, Franz Kriegeld vagyok!
 
-Student, developer
-------------------
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@bencebakos.hu)](mailto:hello@bencebakos.hu)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/FranzKriegeld0345)
+[![Website Badge](https://img.shields.io/badge/-Website-0A66C2?style=flat-square&logo=internetexplorer&logoColor=white)](https://kranem.hu)
 
-I've always been intrested in development, and I started to spend more time in it.
+## 👨‍💻 Rólam
 
-* 🌍  I'm based in Hungary
-* ✉️  You can contact me at [hello@bencebakos.hu](mailto:hello@bencebakos.hu)
-* 🚀  I'm currently working at [kranem.hu](https://kranem.hu)
-* 🧠  I'm learning Lua
+Fejlesztő és technológia-rajongó vagyok Magyarországról. Szenvedélyem a kódolás és folyamatosan új technológiákat tanulok. Jelenleg a [kranem.hu](https://kranem.hu)-nál dolgozom, ahol programozási készségeimet a gyakorlatban alkalmazom.
 
-### Skills
+```javascript
+const franz = {
+  location: "Hungary",
+  currentFocus: "Lua",
+  workingAt: "kranem.hu",
+  interests: ["web fejlesztés", "programozás", "új technológiák"],
+  contact: "hello@bencebakos.hu"
+};
+```
 
+## 🛠️ Technológiák és eszközök
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" width="36" height="36" alt="Squarespace" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+### Programozási nyelvek
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Fejlesztői eszközök
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Back-End és adatbázisok
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+## 📈 GitHub statisztikáim
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranzKriegeld0345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKriegeld0345&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
+## 🌱 Jelenlegi célom
 
-### Socials
+Jelenleg a **Lua** nyelvet tanulom, és szeretném elmélyíteni tudásomat a játékfejlesztés és szkriptelés területén.
 
-<p align="left"> <a href="https://www.github.com/FranzKriegeld0345" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## 💼 Szakmai fejlődésem
 
-### Badges
+- 💡 Folyamatosan új technológiákat fedezek fel
+- 📚 Önképzéssel fejlesztem programozási ismereteimet
+- 🔍 Nyitott vagyok új kihívásokra és együttműködési lehetőségekre
 
-<b>My GitHub Stats</b>
+## 🏆 Projektek
 
-<a href="http://www.github.com/FranzKriegeld0345"><img src="https://github-readme-stats.vercel.app/api?username=FranzKriegeld0345&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FranzKriegeld0345's GitHub stats" /></a>
+*Hamarosan érkeznek izgalmas projektek...*
 
-<a href="http://www.github.com/FranzKriegeld0345"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=FranzKriegeld0345&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 📫 Kapcsolat
 
-<a href="https://github.com/FranzKriegeld0345" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKriegeld0345&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Bármilyen szakmai kérdésben vagy együttműködési lehetőség kapcsán elérhető vagyok a következő címen:
+- 📧 Email: [hello@bencebakos.hu](mailto:hello@bencebakos.hu)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FranzKriegeld0345&color=blueviolet&style=flat-square" alt="Látogatók száma" />
+</p>
+
+<p align="center">
+  <a href="https://kranem.hu" target="_blank">
+    <img src="https://img.shields.io/badge/Kranem.hu-munkahelyem-blue?style=for-the-badge&logo=firefox" alt="Kranem.hu" />
+  </a>
+</p>

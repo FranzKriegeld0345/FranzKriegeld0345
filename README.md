@@ -22,8 +22,8 @@ const franz = {
   currentlyLearning: "Lua",
   occupation: "Owner of kranem.hu",
   codingEnvironment: {
-    os: "Linux",
-    editor: ["VS Code", "Sublime Text"],
+    os: "Linux, Windows",
+    editor: ["VS Code"],
     music: "Linkin Park",
   },
   techStack: ["JavaScript", "Python", "Java", "PHP", "HTML/CSS"],

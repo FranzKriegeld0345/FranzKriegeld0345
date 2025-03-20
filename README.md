@@ -1,80 +1,131 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Üdvözöllek, Franz Kriegeld vagyok!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Franz Kriegeld
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@bencebakos.hu)](mailto:hello@bencebakos.hu)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/FranzKriegeld0345)
-[![Website Badge](https://img.shields.io/badge/-Website-0A66C2?style=flat-square&logo=internetexplorer&logoColor=white)](https://kranem.hu)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A84FF&center=true&vCenter=true&random=false&width=435&lines=Developer+%7C+Problem+Solver;JS+%2F+Python+%2F+Java+Enthusiast;Always+learning+new+technologies;Turning+caffeine+into+code" alt="Typing SVG" /></a>
+</div>
 
-## 👨‍💻 Rólam
+<p align="center">
+  <a href="mailto:hello@bencebakos.hu"><img src="https://img.shields.io/badge/Email-hello%40bencebakos.hu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/FranzKriegeld0345"><img src="https://img.shields.io/badge/GitHub-FranzKriegeld0345-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://kranem.hu"><img src="https://img.shields.io/badge/Working_At-kranem.hu-0078D7?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website" /></a>
+</p>
 
-Fejlesztő és technológia-rajongó vagyok Magyarországról. Szenvedélyem a kódolás és folyamatosan új technológiákat tanulok. Jelenleg a [kranem.hu](https://kranem.hu)-nál dolgozom, ahol programozási készségeimet a gyakorlatban alkalmazom.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+## 🚀 About Me
+
+I'm a passionate developer based in Hungary with a deep enthusiasm for coding and emerging technologies. Currently employed at [kranem.hu](https://kranem.hu), I continuously push the boundaries of my technical expertise while delivering high-quality solutions.
 
 ```javascript
 const franz = {
-  location: "Hungary",
-  currentFocus: "Lua",
-  workingAt: "kranem.hu",
-  interests: ["web fejlesztés", "programozás", "új technológiák"],
-  contact: "hello@bencebakos.hu"
+  location: "Hungary 🇭🇺",
+  currentlyLearning: "Lua",
+  occupation: "Developer at kranem.hu",
+  codingEnvironment: {
+    os: "Linux",
+    editor: ["VS Code", "Sublime Text"],
+    music: "Lo-fi beats",
+  },
+  techStack: ["JavaScript", "Python", "Java", "PHP", "HTML/CSS"],
+  challenge: "Mastering one new programming concept every week",
+  funFact: "I can debug with my eyes closed (not literally, but almost!)"
 };
 ```
 
-## 🛠️ Technológiák és eszközök
+## 💻 Tech Stack & Tools
 
-### Programozási nyelvek
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
+  
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### Fejlesztői eszközök
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Development Tools
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Back-End és adatbázisok
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 📈 GitHub statisztikáim
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranzKriegeld0345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKriegeld0345&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+## 📊 GitHub Analytics
 
-## 🌱 Jelenlegi célom
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranzKriegeld0345&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKriegeld0345&layout=compact&langs_count=8&theme=radical&border_radius=8" />
+</div>
 
-Jelenleg a **Lua** nyelvet tanulom, és szeretném elmélyíteni tudásomat a játékfejlesztés és szkriptelés területén.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FranzKriegeld0345&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" />
+</div>
 
-## 💼 Szakmai fejlődésem
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranzKriegeld0345&theme=radical&hide_border=true" />
+</div>
 
-- 💡 Folyamatosan új technológiákat fedezek fel
-- 📚 Önképzéssel fejlesztem programozási ismereteimet
-- 🔍 Nyitott vagyok új kihívásokra és együttműködési lehetőségekre
+## 🌱 What I'm Currently Learning
 
-## 🏆 Projektek
+<div align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://progress-bar.dev/35?title=Progress&width=400&color=2C2D72" />
+</div>
 
-*Hamarosan érkeznek izgalmas projektek...*
+I'm diving deep into **Lua** to enhance my scripting abilities and explore game development possibilities.
 
-## 📫 Kapcsolat
+## 🚀 Current Goals
 
-Bármilyen szakmai kérdésben vagy együttműködési lehetőség kapcsán elérhető vagyok a következő címen:
-- 📧 Email: [hello@bencebakos.hu](mailto:hello@bencebakos.hu)
+- 📘 Master Lua programming for game development
+- 🔍 Deepen knowledge in backend technologies
+- 🌐 Contribute to open-source projects
+- 🧠 Explore AI and machine learning concepts
+- 📱 Build a personal project combining multiple technologies
+
+## 📂 Featured Projects
+
+<div align="center">
+  
+  *Exciting projects coming soon... Stay tuned!*
+  
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/workbench.gif" width="240" />
+</div>
+
+## 📫 Get In Touch
+
+<div align="center">
+  <a href="mailto:hello@bencebakos.hu">
+    <img src="https://img.shields.io/badge/Email-hello%40bencebakos.hu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FranzKriegeld0345">
+    <img src="https://img.shields.io/badge/GitHub-FranzKriegeld0345-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FranzKriegeld0345&color=blueviolet&style=flat-square" alt="Látogatók száma" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FranzKriegeld0345&style=for-the-badge&color=blueviolet" alt="Profile Views Count" />
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+
+<div align="center">
   <a href="https://kranem.hu" target="_blank">
-    <img src="https://img.shields.io/badge/Kranem.hu-munkahelyem-blue?style=for-the-badge&logo=firefox" alt="Kranem.hu" />
+    <img src="https://img.shields.io/badge/Proud_to_work_at-kranem.hu-0078D7?style=for-the-badge&logo=firefox&logoColor=white" alt="Kranem.hu" />
   </a>
-</p>
+</div>

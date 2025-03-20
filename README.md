@@ -20,11 +20,11 @@ I'm a passionate developer based in Hungary with a deep enthusiasm for coding an
 const franz = {
   location: "Hungary 🇭🇺",
   currentlyLearning: "Lua",
-  occupation: "Developer at kranem.hu",
+  occupation: "Owner of kranem.hu",
   codingEnvironment: {
     os: "Linux",
     editor: ["VS Code", "Sublime Text"],
-    music: "Lo-fi beats",
+    music: "Linkin Park",
   },
   techStack: ["JavaScript", "Python", "Java", "PHP", "HTML/CSS"],
   challenge: "Mastering one new programming concept every week",
@@ -70,11 +70,6 @@ const franz = {
   <img src="https://github-profile-trophy.vercel.app/?username=FranzKriegeld0345&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" />
 </div>
 
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranzKriegeld0345&theme=radical&hide_border=true" />
-</div>
-
 ## 🌱 What I'm Currently Learning
 
 <div align="center">
@@ -117,11 +112,6 @@ I'm diving deep into **Lua** to enhance my scripting abilities and explore game 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FranzKriegeld0345&style=for-the-badge&color=blueviolet" alt="Profile Views Count" />
-</div>
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
 
 <div align="center">

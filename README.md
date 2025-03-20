@@ -7,8 +7,8 @@ Student, developer
 I've always been intrested in development, and I started to spend more time in it.
 
 * 🌍  I'm based in Hungary
-* ✉️  You can contact me at [info@shadowhost.eu](mailto:info@shadowhost.eu)
-* 🚀  I'm currently working on [ShadowHost.eu](https://shadowhost.eu)
+* ✉️  You can contact me at [info@shadowhost.eu](mailto:hello@bencebakos.hu)
+* 🚀  I'm currently working at [kranem.hu](https://kranem.hu)
 * 🧠  I'm learning Lua
 
 ### Skills

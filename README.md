@@ -74,7 +74,6 @@ const franz = {
 
 <div align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://progress-bar.dev/35?title=Progress&width=400&color=2C2D72" />
 </div>
 
 I'm diving deep into **Lua** to enhance my scripting abilities and explore game development possibilities.

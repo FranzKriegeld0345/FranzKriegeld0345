@@ -96,7 +96,7 @@ console.log("Welcome to my digital world! 🌟");
 - **4 Server Systems** - Redundant, high-performance hosting environment
 
 ### 🤝 Trusted Partnerships:
-We collaborate with industry leaders including **RangerBot**, **UserDefender**, and **Radon** to provide enhanced security and monitoring solutions for our clients.
+We collaborate with industry leaders including [**RangerBot**](https://rangerbot.hu), [**UserDefender**](https://userdefender.eu), and [**Radon**](https://radonbot.hu) to provide enhanced security and monitoring solutions for our clients.
 
 ---
 

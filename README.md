@@ -20,9 +20,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** and **Tech Entrepreneur** based in Hungary 🇭🇺, with a deep enthusiasm for cutting-edge technologies and innovative solutions. As the **Owner and Lead Developer** of [**Kranem.hu**](https://kranem.hu), I lead a dynamic team focused on delivering exceptional digital experiences and robust web solutions.
+I'm a passionate **Full-Stack Developer** and **Tech Entrepreneur** based in Hungary 🇭🇺, with extensive experience in hosting services and server infrastructure. As the **Founder and CEO** of [**Kranem.hu**](https://kranem.hu), I lead a premium hosting company that provides high-quality, affordable server solutions directly from Hungary with professional 24/7 support and modern management interfaces.
 
-My journey in tech spans multiple years of hands-on experience, from crafting elegant user interfaces to architecting scalable backend systems. I believe in the power of clean code, innovative thinking, and continuous learning to solve complex problems and create meaningful impact.
+My expertise spans server administration, infrastructure management, and full-stack development. I specialize in delivering reliable hosting solutions with lightning-fast NVMe SSD performance, comprehensive DDoS protection, and strategic server locations optimized for Hungarian and European clients.
 
 ```javascript
 const franzKriegeld = {
@@ -35,9 +35,10 @@ const franzKriegeld = {
   },
   
   currentFocus: {
-    learning: ["Lua", "Game Development", "AI/ML", "Cloud Architecture"],
-    building: ["Kranem.hu Platform", "Open Source Tools", "Game Projects"],
-    exploring: ["WebAssembly", "Blockchain", "IoT Solutions"]
+    business: ["Expanding Kranem.hu hosting services", "Infrastructure optimization"],
+    learning: ["Lua", "Server Administration", "Cloud Architecture", "DevOps"],
+    building: ["Hosting platform improvements", "Performance monitoring systems", "Customer management tools"],
+    exploring: ["Advanced server technologies", "Container orchestration", "Edge computing solutions"]
   },
   
   techStack: {
@@ -68,7 +69,7 @@ console.log("Welcome to my digital world! 🌟");
 
 <br clear="right"/>
 
-## 💼 Kranem.hu - My Digital Empire
+## 💼 Kranem.hu - Premium Hungarian Hosting Solutions
 
 <div align="center">
   <a href="https://kranem.hu" target="_blank">
@@ -76,14 +77,26 @@ console.log("Welcome to my digital world! 🌟");
   </a>
 </div>
 
-**Kranem.hu** represents my vision of excellence in web development and digital solutions. As the founder and lead developer, I've built this platform to showcase innovative web technologies and deliver premium services to clients worldwide.
+**Kranem.hu** is Hungary's premier hosting provider, offering high-quality, affordable server solutions with a focus on performance, reliability, and exceptional customer service. As the founder and CEO, I've built this platform to deliver professional hosting services that meet the demanding needs of modern businesses and developers.
 
-### 🎯 What Makes Kranem.hu Special:
-- **🚀 Cutting-edge Solutions**: Leveraging the latest technologies for optimal performance
-- **🎨 Creative Excellence**: Combining technical expertise with artistic vision
-- **🔧 Custom Development**: Tailored solutions for unique business needs
-- **📱 Responsive Design**: Seamless experience across all devices
-- **⚡ Performance Optimized**: Lightning-fast loading and smooth interactions
+### 🎯 Our Hosting Excellence:
+- **⚡ Lightning Performance**: NVMe SSD-powered servers for maximum speed and reliability
+- **🛡️ Complete Protection**: Advanced DDoS protection and automated security systems  
+- **🇭🇺 Strategic Location**: Hungarian and German data centers for optimal European connectivity
+- **📞 24/7 Support**: Round-the-clock Hungarian language support via Discord and traditional channels
+- **💰 Affordable Pricing**: Premium quality hosting at competitive rates
+- **🎛️ Modern Management**: Intuitive, user-friendly control panels for easy server administration
+- **📊 Real-time Analytics**: Comprehensive monitoring and detailed performance statistics
+- **🔧 Custom Configurations**: Personalized server setups tailored to specific requirements
+
+### 📈 Impressive Growth Statistics:
+- **551+ Active Users** - Growing community of satisfied customers
+- **78 Services** - Comprehensive hosting solutions portfolio  
+- **2 Strategic Locations** - Hungarian and German server infrastructure
+- **4 Server Systems** - Redundant, high-performance hosting environment
+
+### 🤝 Trusted Partnerships:
+We collaborate with industry leaders including **RangerBot**, **UserDefender**, and **Radon** to provide enhanced security and monitoring solutions for our clients.
 
 ---
 
@@ -123,13 +136,15 @@ console.log("Welcome to my digital world! 🌟");
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Hosting & Infrastructure
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 🛠️ Development Tools
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -169,12 +184,12 @@ console.log("Welcome to my digital world! 🌟");
   <img src="https://img.shields.io/badge/⚡_Performance-Optimization-FF6B35?style=for-the-badge&logo=lightning&logoColor=white" />
 </div>
 
-### 🎯 2025 Learning Goals:
-- **🎮 Lua & Game Development**: Building interactive games and scripting systems
-- **🧠 AI & Machine Learning**: Exploring TensorFlow and neural networks
-- **🔗 Blockchain Technology**: Smart contracts and decentralized applications
-- **📱 Mobile Development**: React Native and Flutter for cross-platform apps
-- **🏗️ System Architecture**: Microservices and scalable cloud solutions
+### 🎯 2025 Business & Technical Goals:
+- **🎮 Lua & Game Development**: Building interactive games and expanding into gaming server hosting
+- **🏗️ Infrastructure Expansion**: Scaling Kranem.hu with additional European data centers
+- **🤖 Automation & AI**: Implementing intelligent server management and predictive maintenance
+- **📱 Mobile Platform**: Developing mobile apps for easier server management
+- **🔗 Enterprise Solutions**: Expanding into dedicated servers and enterprise hosting packages
 
 ---
 
@@ -184,12 +199,16 @@ console.log("Welcome to my digital world! 🌟");
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🏢 Kranem.hu Platform</h3>
-        <p><strong>Enterprise Web Solutions</strong></p>
-        <p>A comprehensive platform delivering premium web development services with modern technologies and innovative design patterns.</p>
+        <h3>🏢 Kranem.hu Hosting Platform</h3>
+        <p><strong>Premium Hungarian Hosting Solutions</strong></p>
+        <p>A comprehensive hosting platform serving 551+ users with NVMe SSD performance, DDoS protection, and 24/7 Hungarian support across strategic European locations.</p>
         <a href="https://kranem.hu" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Site-kranem.hu-FF6B35?style=flat-square&logo=firefox" />
+          <img src="https://img.shields.io/badge/Live_Platform-kranem.hu-FF6B35?style=flat-square&logo=firefox" />
         </a>
+        <a href="https://status.kranem.hu" target="_blank">
+          <img src="https://img.shields.io/badge/Status-Monitoring-green?style=flat-square&logo=statuspage" />
+        </a>
+        <img src="https://img.shields.io/badge/Users-551+-blue?style=flat-square&logo=users" />
       </td>
       <td align="center" width="50%">
         <h3>🎮 Lua Game Engine</h3>
@@ -200,10 +219,10 @@ console.log("Welcome to my digital world! 🌟");
     </tr>
     <tr>
       <td align="center">
-        <h3>🌐 Full-Stack Web Apps</h3>
-        <p><strong>Modern Web Solutions</strong></p>
-        <p>Collection of responsive, scalable web applications built with React, Node.js, and cloud technologies.</p>
-        <img src="https://img.shields.io/badge/Portfolio-Multiple_Projects-blue?style=flat-square&logo=react" />
+        <h3>🎛️ Server Management Tools</h3>
+        <p><strong>Infrastructure Administration</strong></p>
+        <p>Custom-built server management interfaces and monitoring systems for optimal performance tracking, resource allocation, and automated maintenance procedures.</p>
+        <img src="https://img.shields.io/badge/Focus-Server_Admin-blue?style=flat-square&logo=server" />
       </td>
       <td align="center">
         <h3>🤖 AI Integration Tools</h3>
@@ -224,19 +243,19 @@ console.log("Welcome to my digital world! 🌟");
     <tr>
       <td align="center" width="25%">
         <h4>🚀 Short Term</h4>
-        <p>Master Lua programming for game development and expand Kranem.hu services</p>
+        <p>Expand Kranem.hu hosting services and master Lua for gaming server applications</p>
       </td>
       <td align="center" width="25%">
         <h4>🌟 Medium Term</h4>
-        <p>Launch innovative SaaS products and contribute to major open-source projects</p>
+        <p>Launch gaming hosting solutions and establish additional European data centers</p>
       </td>
       <td align="center" width="25%">
         <h4>🎯 Long Term</h4>
-        <p>Build a tech empire with multiple successful products and mentor future developers</p>
+        <p>Build the leading Hungarian hosting empire with enterprise solutions and automation</p>
       </td>
       <td align="center" width="25%">
         <h4>🌍 Ultimate Vision</h4>
-        <p>Transform digital experiences globally and create technology that makes a difference</p>
+        <p>Revolutionize hosting in Central Europe with innovative technologies and exceptional service</p>
       </td>
     </tr>
   </table>
@@ -276,8 +295,8 @@ Other        10 mins         ░░░░░░░░░░░░░░░░░
   
   <br><br>
   
-  <p>💡 <strong>Open to:</strong> Freelance projects, partnerships, mentoring, and innovative collaborations</p>
-  <p>🌟 <strong>Specializing in:</strong> Full-stack development, enterprise solutions, and cutting-edge web technologies</p>
+  <p>💡 <strong>Open to:</strong> Hosting partnerships, infrastructure consulting, server management projects, and gaming industry collaborations</p>
+  <p>🌟 <strong>Specializing in:</strong> Premium hosting solutions, server administration, infrastructure scaling, and European market expansion</p>
 </div>
 
 ---
@@ -289,12 +308,12 @@ Other        10 mins         ░░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <h3>🏆 Powered by Passion, Driven by Innovation</h3>
+  <h3>🏆 Building Hungary's Premier Hosting Platform</h3>
   <a href="https://kranem.hu" target="_blank">
-    <img src="https://img.shields.io/badge/🌟_Proudly_Building-kranem.hu-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=2F3349" alt="Kranem.hu Badge" />
+    <img src="https://img.shields.io/badge/🌟_Founder_&_CEO-kranem.hu-FF6B35?style=for-the-badge&logo=server&logoColor=white&labelColor=2F3349" alt="Kranem.hu Founder" />
   </a>
   <br><br>
-  <p><em>"Code is poetry, and every project is a masterpiece waiting to be created."</em></p>
+  <p><em>"Empowering the digital future with reliable hosting solutions and unwavering commitment to excellence."</em></p>
 </div>
 
 ---

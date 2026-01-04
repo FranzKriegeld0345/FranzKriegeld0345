@@ -157,16 +157,16 @@ console.log("Welcome to my digital world! 🌟");
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranzKriegeld0345&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKriegeld0345&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranzKriegeld0345&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKriegeld0345&layout=compact&langs_count=8&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FranzKriegeld0345&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranzKriegeld0345&theme=github-dark-blue&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FranzKriegeld0345&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FranzKriegeld0345&theme=darkhub&no-frame=false&margin-w=10&column=6" />
 </div>
 
 ---

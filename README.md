@@ -94,9 +94,6 @@ console.log("Welcome to my digital world! 🌟");
 - **Redundant Systems** - High-performance, fault-tolerant hosting environment
 - **Growing Community** - Expanding base of satisfied customers across Europe
 
-### 🤝 Trusted Partnerships:
-We collaborate with industry leaders including [**RangerBot**](https://rangerbot.hu), [**UserDefender**](https://userdefender.eu), and [**Radon**](https://radonbot.hu) to provide enhanced security and monitoring solutions for our clients.
-
 ---
 
 ## 💻 Tech Stack & Expertise
@@ -160,16 +157,16 @@ We collaborate with industry leaders including [**RangerBot**](https://rangerbot
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FranzKriegeld0345&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKriegeld0345&layout=compact&langs_count=12&theme=radical&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranzKriegeld0345&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKriegeld0345&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranzKriegeld0345&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=1F6FEB" />
+  <img src="https://streak-stats.demolab.com/?user=FranzKriegeld0345&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FranzKriegeld0345&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FranzKriegeld0345&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---

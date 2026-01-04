@@ -89,11 +89,10 @@ console.log("Welcome to my digital world! 🌟");
 - **📊 Real-time Analytics**: Comprehensive monitoring and detailed performance statistics
 - **🔧 Custom Configurations**: Personalized server setups tailored to specific requirements
 
-### 📈 Impressive Growth Statistics:
-- **551+ Active Users** - Growing community of satisfied customers
-- **78 Services** - Comprehensive hosting solutions portfolio  
-- **2 Strategic Locations** - Hungarian and German server infrastructure
-- **4 Server Systems** - Redundant, high-performance hosting environment
+### 🎯 Our Infrastructure:
+- **Strategic Locations** - Hungarian and German data centers for optimal European connectivity
+- **Redundant Systems** - High-performance, fault-tolerant hosting environment
+- **Growing Community** - Expanding base of satisfied customers across Europe
 
 ### 🤝 Trusted Partnerships:
 We collaborate with industry leaders including [**RangerBot**](https://rangerbot.hu), [**UserDefender**](https://userdefender.eu), and [**Radon**](https://radonbot.hu) to provide enhanced security and monitoring solutions for our clients.
@@ -184,12 +183,13 @@ We collaborate with industry leaders including [**RangerBot**](https://rangerbot
   <img src="https://img.shields.io/badge/⚡_Performance-Optimization-FF6B35?style=for-the-badge&logo=lightning&logoColor=white" />
 </div>
 
-### 🎯 2025 Business & Technical Goals:
+### 🎯 2026 Business & Technical Goals:
 - **🎮 Lua & Game Development**: Building interactive games and expanding into gaming server hosting
 - **🏗️ Infrastructure Expansion**: Scaling Kranem.hu with additional European data centers
 - **🤖 Automation & AI**: Implementing intelligent server management and predictive maintenance
 - **📱 Mobile Platform**: Developing mobile apps for easier server management
 - **🔗 Enterprise Solutions**: Expanding into dedicated servers and enterprise hosting packages
+- **🛡️ Advanced Security**: Implementing next-generation threat detection and mitigation systems
 
 ---
 
@@ -201,14 +201,13 @@ We collaborate with industry leaders including [**RangerBot**](https://rangerbot
       <td align="center" width="50%">
         <h3>🏢 Kranem.hu Hosting Platform</h3>
         <p><strong>Premium Hungarian Hosting Solutions</strong></p>
-        <p>A comprehensive hosting platform serving 551+ users with NVMe SSD performance, DDoS protection, and 24/7 Hungarian support across strategic European locations.</p>
+        <p>A comprehensive hosting platform delivering NVMe SSD performance, DDoS protection, and 24/7 Hungarian support across strategic European data centers.</p>
         <a href="https://kranem.hu" target="_blank">
           <img src="https://img.shields.io/badge/Live_Platform-kranem.hu-FF6B35?style=flat-square&logo=firefox" />
         </a>
         <a href="https://status.kranem.hu" target="_blank">
           <img src="https://img.shields.io/badge/Status-Monitoring-green?style=flat-square&logo=statuspage" />
         </a>
-        <img src="https://img.shields.io/badge/Users-551+-blue?style=flat-square&logo=users" />
       </td>
       <td align="center" width="50%">
         <h3>🎮 Lua Game Engine</h3>
@@ -267,11 +266,11 @@ We collaborate with industry leaders including [**RangerBot**](https://rangerbot
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
-Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.8%
-PHP          3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.9%
-Lua          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    6.8%
-Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
+JavaScript   15 hrs 45 mins  ████████████░░░░░░░░░░░░░   46.3%
+Python       10 hrs 20 mins  ████████░░░░░░░░░░░░░░░░░   30.4%
+Lua          4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+PHP          3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    9.3%
+Other        30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    1.5%
 ```
 <!--END_SECTION:waka-->
 

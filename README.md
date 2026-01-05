@@ -174,8 +174,6 @@ console.log("Welcome to my digital world! 🌟");
 ## 🌱 Current Learning Journey
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎮_Game_Development-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖_AI_&_ML-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/🌐_WebAssembly-WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/⚡_Performance-Optimization-FF6B35?style=for-the-badge&logo=lightning&logoColor=white" />
 </div>
